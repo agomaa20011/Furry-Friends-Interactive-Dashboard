@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # Loading data
-df = pd.read_excel('Fury_Friends data set_4376')
+df = pd.read_excel('Fury_Friends data set_4376.xlsx')
 
 # Data exploration in console (can remove for production)
 print(df.head())
